@@ -1,0 +1,8 @@
+{
+  "N_INPUT": 64,
+  "HIDDEN": 32,
+  "N_CLASS": 10,
+  "NTEST": 50,
+  "W_SCALE": 128,
+  "SHIFT1": 5
+}
